@@ -1,0 +1,19 @@
+Required Libraries: 
+
+cycler
+decorator
+imageio
+joblib
+kiwisolver
+matplotlib
+networkx
+numpy
+Pillow
+pyparsing
+python-dateutil
+PyWavelets
+scikit-image
+scikit-learn
+scipy
+six
+sklearn
